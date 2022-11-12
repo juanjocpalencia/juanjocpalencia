@@ -6,7 +6,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 <br>
 
 ## Contact
-<hr> 
+ 
 
 - Email : juanjocpalencia@gmail.com
 - Phone : +52 444 281 4750
@@ -16,7 +16,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 <br>
 
 ## Professional Experience
-<hr>
+
 
 ### <strong>Software Developer</strong> 
 *<strong>Tecnolika</strong> | June 2022 - Current*
@@ -72,20 +72,20 @@ Information technology engineer with the aim of creating optimal solutions to ev
 <br>
 <br>
 ## Languages
-<hr>
+
 
 - <strong> Spanish</strong> <br> *Native*
 - <strong> English</strong> <br> *Certification Cambridge B1*
 
 ## Certifications
-<hr> 
+ 
 
 - Cambridge B1
 - It essentials
 - Office especialist
 
 ## Studies
-<hr>
+
 
 - <strong> Information Technology Engineer</strong> <br> *Universidad Politecnica de San Luis Potosi*
 
