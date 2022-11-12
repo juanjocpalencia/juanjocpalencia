@@ -12,12 +12,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/Juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' class="social-logo">](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
-## Frame works
-### Frontend
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vue-dot-js' height='40'>&nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>&nbsp;&nbsp;&nbsp;  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>&nbsp;&nbsp;&nbsp; 
-
-### Backend 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'> &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>]
 
 
 ## About me 
@@ -98,3 +92,14 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - <strong> Information Technology Engineer</strong> <br> *Universidad Politecnica de San Luis Potosi*
 
 - <strong> IT technician</strong> <br>*Colegio de Bachilleres Plantel 28*
+## Frameworks
+### Frontend
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vue-dot-js' height='40'>&nbsp;&nbsp;&nbsp;Vue &nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>&nbsp;&nbsp;&nbsp; 
+angular &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>&nbsp;&nbsp;&nbsp;React 
+
+### Backend 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>&nbsp;&nbsp;&nbsp; Node express &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
+
+
+## Databases
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>  MongoDB &nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='microsoftsqlserver' height='40'> SQL Server  &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'> MySQL
