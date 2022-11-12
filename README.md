@@ -54,6 +54,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Management of Node Linux servers
 <br>
 <br>
+
 ### <strong>IT Analyst Training</strong>
 *<strong>General Motors de Mexico</strong> | April 2019 - March 2020*
 - Training data analysis
@@ -63,6 +64,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Department Support
 <br>
 <br>
+
 ### <strong>Freelance</strong>
 *<strong>Independent Projects</strong>*
 - Managing EC2 with Windows Server on AWS
@@ -71,9 +73,8 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - SQL Server management in AWS service
 <br>
 <br>
+
 ## Languages
-
-
 - <strong> Spanish</strong> <br> *Native*
 - <strong> English</strong> <br> *Certification Cambridge B1*
 
