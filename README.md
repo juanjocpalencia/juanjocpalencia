@@ -1,7 +1,12 @@
 <link rel="stylesheet" href="./styles.css">
 
 <h1 class="align-center" >Juan José Cuevas Palencia</h1>
-<p style="text-align:center"> Information Technology Engineer / Full Stack Developer </p> 
+<p class="align-center" > Information Technology Engineer / Full Stack Developer 
+</p> 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' class="social-logo">](https://github.com/juanjocpalencia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/Juanjocpalencia)  
+
+
 
 ## About me 
 Information technology engineer with the aim of creating optimal solutions to everyday problems, with the help of software development tools.
