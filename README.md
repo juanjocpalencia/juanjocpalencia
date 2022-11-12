@@ -4,7 +4,13 @@
 <p class="align-center" > Information Technology Engineer / Full Stack Developer 
 </p> 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' class="social-logo">](https://github.com/juanjocpalencia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/Juanjocpalencia)  
+## Contact
+
+- Email : juanjocpalencia@gmail.com
+- Phone : +52 444 281 4750
+- Linked in: [juanjocpalencia](http://linkedin.com/in/Juanjocpalencia)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/Juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' class="social-logo">](https://github.com/juanjocpalencia)  
 
 
 
@@ -13,13 +19,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 <br>
 <br>
 
-## Contact
 
-- Email : juanjocpalencia@gmail.com
-- Phone : +52 444 281 4750
-- Linked in: [juanjocpalencia](http://linkedin.com/in/Juanjocpalencia)
-
-<br>
 
 
 ## Professional Experience
