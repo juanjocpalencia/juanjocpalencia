@@ -6,14 +6,13 @@ Information technology engineer with the aim of creating optimal solutions to ev
 <br>
 
 ## Contact
- 
 
 - Email : juanjocpalencia@gmail.com
 - Phone : +52 444 281 4750
 - Linked in: [juanjocpalencia](http://linkedin.com/in/Juanjocpalencia)
 
 <br>
-<br>
+
 
 ## Professional Experience
 
@@ -24,8 +23,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Data bases Managemetn with SQL Server Management
 - Management of IIS Windows Server 
 - Application development with React / Angular
-<br>
-<br>
+
 
 ### <strong>Web Department Leader</strong> 
 *<strong>Fyware</strong> | January 2021 -  June 2022*
@@ -33,8 +31,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Google cloud server management
 - Web development department leadership
 - Task management with Atlassian Jira
-<br>
-<br>
+
 
 
 ### <strong>Full Stack Developer</strong>
@@ -43,8 +40,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Rest api development with Node express js
 - Mongodb Database Management
 - Management of Node Linux servers
-<br>
-<br>
+
 
 ### <strong>Full Stack Developer</strong>
 *<strong>LOAR Mecatronica</strong> | June 2020 - January 2021*
@@ -52,8 +48,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Rest api development with Node express js
 - Mongodb Database Management
 - Management of Node Linux servers
-<br>
-<br>
+
 
 ### <strong>IT Analyst Training</strong>
 *<strong>General Motors de Mexico</strong> | April 2019 - March 2020*
@@ -62,8 +57,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - Development of an application in Vba for the optimization of the creation of licenses for maintenance technicians
 - Implementation of Software for the evaluation of training exams
 - Department Support
-<br>
-<br>
+
 
 ### <strong>Freelance</strong>
 *<strong>Independent Projects</strong>*
@@ -71,8 +65,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - IIS Server Mount
 - ASP.NET Application Deployment
 - SQL Server management in AWS service
-<br>
-<br>
+
 
 ## Languages
 - <strong> Spanish</strong> <br> *Native*
