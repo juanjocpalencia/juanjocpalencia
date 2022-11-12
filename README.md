@@ -1,5 +1,8 @@
-# Juan José Cuevas Palencia 
-*Information Technology Engineer / Full Stack Developer* 
+<link rel="stylesheet" href="./styles.css">
+
+<h1 class="align-center" >Juan José Cuevas Palencia</h1>
+<p style="text-align:center"> Information Technology Engineer / Full Stack Developer </p> 
+
 ## About me 
 Information technology engineer with the aim of creating optimal solutions to everyday problems, with the help of software development tools.
 <br>
