@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="./styles.css">
-
-<h1 class="align-center" >Juan José Cuevas Palencia</h1>
-<p class="align-center" > Information Technology Engineer / Full Stack Developer 
-</p> 
+<img src="./source/Juan José Cuevas Palencia.gif"/>
+<p class="align-center" >Full Stack Developer </p> 
 
 ## Contact
 
@@ -125,3 +123,4 @@ angular &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'> &nbsp;&nbsp;&nbsp; Amazon AWS
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg' alt='googlecloud' height='40'> &nbsp;&nbsp;&nbsp; Google Cloud
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stripe.svg' alt='stripe' height='40'> Stripe
