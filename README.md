@@ -114,3 +114,14 @@ angular &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 
 ## Databases
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>  MongoDB &nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='microsoftsqlserver' height='40'> SQL Server  &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'> MySQL
+
+
+## Control versions
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'> Git
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' height='40'> Bitbucket
+
+## Services
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleanalytics.svg' alt='googleanalytics' height='40'> &nbsp;&nbsp;&nbsp; Google analytics
+
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'> &nbsp;&nbsp;&nbsp; Amazon AWS
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg' alt='googlecloud' height='40'> &nbsp;&nbsp;&nbsp; Google Cloud
