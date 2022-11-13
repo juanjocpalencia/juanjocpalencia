@@ -92,6 +92,17 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - <strong> Information Technology Engineer</strong> <br> *Universidad Politecnica de San Luis Potosi*
 
 - <strong> IT technician</strong> <br>*Colegio de Bachilleres Plantel 28*
+## Programming Languages
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'> C# 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'> Javascript
+-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'> Typescript
+- Visual Basic
+-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>PHP
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C++
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'> Python
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'> Java
+
 ## Frameworks
 ### Frontend
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vue-dot-js' height='40'>&nbsp;&nbsp;&nbsp;Vue &nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>&nbsp;&nbsp;&nbsp; 
