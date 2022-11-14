@@ -82,7 +82,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 - Cambridge B1
 - It essentials
-- Office especialist
+- Office specialist
 
 ## Studies
 
