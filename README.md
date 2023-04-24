@@ -105,9 +105,11 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 ## Frameworks
 ### Frontend
-[<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>]()
-[<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>]()
-[<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>]()
+[<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>](https://github.com/juanjocpalencia)
 
 ### Backend 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>&nbsp;&nbsp;&nbsp; Node express &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
