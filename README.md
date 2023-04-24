@@ -120,8 +120,9 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 
 ## Control versions
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'> Git
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' height='40'> Bitbucket
+[<img src='source\img\icons8-git.svg' alt='git' height='40'> ](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-bitbucket-is-a-web-based-version-control-repository-hosting-service-96.png' alt='bitbucket' height='40'>](https://github.com/juanjocpalencia)
 
 ## Services
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleanalytics.svg' alt='googleanalytics' height='40'> &nbsp;&nbsp;&nbsp; Google analytics
@@ -131,3 +132,4 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stripe.svg' alt='stripe' height='40'> Stripe
 
 # Links
+All the Icons are provided by <a target="_blank" href="https://icons8.com">Icons8</a>
