@@ -129,11 +129,10 @@ Information technology engineer with the aim of creating optimal solutions to ev
 [<img src='source\img\icons8-bitbucket-is-a-web-based-version-control-repository-hosting-service-96.png' alt='bitbucket' height='40'>](https://github.com/juanjocpalencia)
 
 ## Services
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleanalytics.svg' alt='googleanalytics' height='40'> &nbsp;&nbsp;&nbsp; Google analytics
-
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'> &nbsp;&nbsp;&nbsp; Amazon AWS
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg' alt='googlecloud' height='40'> &nbsp;&nbsp;&nbsp; Google Cloud
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stripe.svg' alt='stripe' height='40'> Stripe
+[<img src='source\img\icons8-google-analytics.svg' alt='googleanalytics' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-amazon-web-services.svg' alt='amazonaws' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-google-cloud.svg' alt='googlecloud' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-stripe.svg' alt='stripe' height='40'>](https://github.com/juanjocpalencia)
 
 # Links
 All the Icons are provided by <a target="_blank" href="https://icons8.com">Icons8</a>
