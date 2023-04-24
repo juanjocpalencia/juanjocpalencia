@@ -97,7 +97,6 @@ Information technology engineer with the aim of creating optimal solutions to ev
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='source\img\icons8-typescript.svg' alt='typescript' height='40'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- Visual Basic
 -  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>PHP
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C++
@@ -106,11 +105,15 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 ## Frameworks
 ### Frontend
+<a>
 <img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a>
 <img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a>
 <img src='./source/img/icons8-react-native.svg' alt='react' height='40'> 
+</a>
 
 ### Backend 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>&nbsp;&nbsp;&nbsp; Node express &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
