@@ -24,7 +24,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 
 ### <strong>Software Developer</strong> 
-*<strong>Tecnolika</strong> | June 2022 - Current*
+*<strong>Tecnolika</strong> | June 2022 - January 2023*
 - Rest API developmnet with netcore 6 
 - Data bases Managemetn with SQL Server Management
 - Management of IIS Windows Server 
@@ -91,9 +91,12 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 - <strong> IT technician</strong> <br>*Colegio de Bachilleres Plantel 28*
 ## Programming Languages
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'> C# 
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'> Javascript
--  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'> Typescript
+<img src='./source/img/icons8-c-sharp-logo.svg' alt='csharp' height='40'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='source\img\icons8-javascript.svg' alt='javascript' height='40'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='source\img\icons8-typescript.svg' alt='typescript' height='40'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - Visual Basic
 -  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>PHP
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C 
@@ -103,8 +106,11 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 ## Frameworks
 ### Frontend
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vue-dot-js' height='40'>&nbsp;&nbsp;&nbsp;Vue &nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>&nbsp;&nbsp;&nbsp; 
-angular &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>&nbsp;&nbsp;&nbsp;React 
+<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./source/img/icons8-react-native.svg' alt='react' height='40'> 
 
 ### Backend 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>&nbsp;&nbsp;&nbsp; Node express &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
@@ -124,3 +130,6 @@ angular &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'> &nbsp;&nbsp;&nbsp; Amazon AWS
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg' alt='googlecloud' height='40'> &nbsp;&nbsp;&nbsp; Google Cloud
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stripe.svg' alt='stripe' height='40'> Stripe
+
+# Links
+All icons are provided by <a target="_blank" href="https://icons8.com">Icons8</a>
