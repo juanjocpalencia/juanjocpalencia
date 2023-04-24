@@ -112,11 +112,11 @@ Information technology engineer with the aim of creating optimal solutions to ev
 [<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>](https://github.com/juanjocpalencia)
 
 ### Backend 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>&nbsp;&nbsp;&nbsp; Node express &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
+[<img src='source\img\icons8-nodejs.svg' alt='node-dot-js' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
 
 
 ## Databases
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>  MongoDB &nbsp;&nbsp;&nbsp;   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='microsoftsqlserver' height='40'> SQL Server  &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'> MySQL
+[<img src='source\img\icons8-mongodb.svg' alt='mongodb' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;   [<img src='source\img\icons8-microsoft-sql-server.svg' alt='microsoftsqlserver' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp; [<img src='source\img\icons8-mysql-logo.svg' alt='mysql' height='40'>](https://github.com/juanjocpalencia)
 
 
 ## Control versions
