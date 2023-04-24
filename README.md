@@ -91,17 +91,21 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 - <strong> IT technician</strong> <br>*Colegio de Bachilleres Plantel 28*
 ## Programming Languages
-<img src='./source/img/icons8-c-sharp-logo.svg' alt='csharp' height='40'>
+[<img src='./source/img/icons8-c-sharp-logo.svg' alt='csharp' height='40'>](https://github.com/juanjocpalencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='source\img\icons8-javascript.svg' alt='javascript' height='40'>
+[<img src='source\img\icons8-javascript.svg' alt='javascript' height='40'>](https://github.com/juanjocpalencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='source\img\icons8-typescript.svg' alt='typescript' height='40'>
+[<img src='source\img\icons8-typescript.svg' alt='typescript' height='40'>](https://github.com/juanjocpalencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
--  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>PHP
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C 
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'> C++
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'> Python
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'> Java
+[<img src='source\img\icons8-php-logo.svg' alt='php' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-c-programming.svg' alt='c' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-c++.svg' alt='c' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-python.svg' alt='python' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-java.svg' alt='java' height='40'>](https://github.com/juanjocpalencia) 
 
 ## Frameworks
 ### Frontend
