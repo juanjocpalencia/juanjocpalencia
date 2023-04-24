@@ -8,7 +8,7 @@
 - Phone : +52 444 281 4750
 - Linked in: [juanjocpalencia](http://linkedin.com/in/Juanjocpalencia)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/Juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' class="social-logo">](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/Juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='source\img\icons8-github-200.svg' alt='github' height='40' class="social-logo">](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 
 
@@ -105,15 +105,9 @@ Information technology engineer with the aim of creating optimal solutions to ev
 
 ## Frameworks
 ### Frontend
-<a>
-<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>
-</a>
-<a>
-<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>
-</a>
-<a>
-<img src='./source/img/icons8-react-native.svg' alt='react' height='40'> 
-</a>
+[<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>]
+[<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>]
+[<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>] 
 
 ### Backend 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>&nbsp;&nbsp;&nbsp; Node express &nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
@@ -135,4 +129,3 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stripe.svg' alt='stripe' height='40'> Stripe
 
 # Links
-All icons are provided by <a target="_blank" href="https://icons8.com">Icons8</a>
