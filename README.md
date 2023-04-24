@@ -17,6 +17,49 @@ Information technology engineer with the aim of creating optimal solutions to ev
 <br>
 <br>
 
+## Programming Languages
+[<img src='./source/img/icons8-c-sharp-logo.svg' alt='csharp' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-javascript.svg' alt='javascript' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-typescript.svg' alt='typescript' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-php-logo.svg' alt='php' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-c-programming.svg' alt='c' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-c++.svg' alt='c' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-python.svg' alt='python' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-java.svg' alt='java' height='40'>](https://github.com/juanjocpalencia) 
+
+## Frameworks
+### Frontend
+[<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>](https://github.com/juanjocpalencia)
+
+### Backend 
+[<img src='source\img\icons8-nodejs.svg' alt='node-dot-js' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
+
+
+## Databases
+[<img src='source\img\icons8-mongodb.svg' alt='mongodb' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;   [<img src='source\img\icons8-microsoft-sql-server.svg' alt='microsoftsqlserver' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp; [<img src='source\img\icons8-mysql-logo.svg' alt='mysql' height='40'>](https://github.com/juanjocpalencia)
+
+
+## Control versions
+[<img src='source\img\icons8-git.svg' alt='git' height='40'> ](https://github.com/juanjocpalencia)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-bitbucket-is-a-web-based-version-control-repository-hosting-service-96.png' alt='bitbucket' height='40'>](https://github.com/juanjocpalencia)
+
+## Services
+[<img src='source\img\icons8-google-analytics.svg' alt='googleanalytics' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-amazon-web-services.svg' alt='amazonaws' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-google-cloud.svg' alt='googlecloud' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-stripe.svg' alt='stripe' height='40'>](https://github.com/juanjocpalencia)
 
 
 
@@ -90,49 +133,6 @@ Information technology engineer with the aim of creating optimal solutions to ev
 - <strong> Information Technology Engineer</strong> <br> *Universidad Politecnica de San Luis Potosi*
 
 - <strong> IT technician</strong> <br>*Colegio de Bachilleres Plantel 28*
-## Programming Languages
-[<img src='./source/img/icons8-c-sharp-logo.svg' alt='csharp' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-javascript.svg' alt='javascript' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-typescript.svg' alt='typescript' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-php-logo.svg' alt='php' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-c-programming.svg' alt='c' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-c++.svg' alt='c' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-python.svg' alt='python' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-java.svg' alt='java' height='40'>](https://github.com/juanjocpalencia) 
-
-## Frameworks
-### Frontend
-[<img src='./source/img/icons8-vue-js.svg' alt='vue'  height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='./source/img/icons8-angularjs.svg' alt='angular' height='40'>](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>](https://github.com/juanjocpalencia)
-
-### Backend 
-[<img src='source\img\icons8-nodejs.svg' alt='node-dot-js' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;.NET Core
-
-
-## Databases
-[<img src='source\img\icons8-mongodb.svg' alt='mongodb' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;   [<img src='source\img\icons8-microsoft-sql-server.svg' alt='microsoftsqlserver' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp; [<img src='source\img\icons8-mysql-logo.svg' alt='mysql' height='40'>](https://github.com/juanjocpalencia)
-
-
-## Control versions
-[<img src='source\img\icons8-git.svg' alt='git' height='40'> ](https://github.com/juanjocpalencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-bitbucket-is-a-web-based-version-control-repository-hosting-service-96.png' alt='bitbucket' height='40'>](https://github.com/juanjocpalencia)
-
-## Services
-[<img src='source\img\icons8-google-analytics.svg' alt='googleanalytics' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-amazon-web-services.svg' alt='amazonaws' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-google-cloud.svg' alt='googlecloud' height='40'>](https://github.com/juanjocpalencia) &nbsp;&nbsp;&nbsp;
-[<img src='source\img\icons8-stripe.svg' alt='stripe' height='40'>](https://github.com/juanjocpalencia)
 
 # Links
 All the Icons are provided by <a target="_blank" href="https://icons8.com">Icons8</a>
