@@ -43,7 +43,7 @@ Information technology engineer with the aim of creating optimal solutions to ev
 [<img src='./source/img/icons8-react-native.svg' alt='react' height='40'>](https://github.com/juanjocpalencia)
 
 ### Backend 
-[<img src='source\img\icons8-nodejs.svg' alt='node-dot-js' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;
+[<img src='source\img\icons8-nodejs.svg' alt='node-dot-js' height='40'>](https://github.com/juanjocpalencia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='source\img\NET_Core_Logo.svg' alt='dot-net' height='40'> &nbsp;&nbsp;&nbsp;
 
 
 ## Databases
